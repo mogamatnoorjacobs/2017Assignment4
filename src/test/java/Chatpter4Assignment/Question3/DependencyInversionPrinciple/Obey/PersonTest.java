@@ -11,7 +11,7 @@ public class PersonTest extends TestCase {
     {
          checkingStatuses person="true";
 
-        Person checkingPersonStatus=new Person());
+        Person checkingPersonStatus=new Person();
 
 
 
