@@ -9,7 +9,7 @@ public class PersonTest extends TestCase {
 
     public void testStatusCheck() throws Exception
     {
-         checkingStatuses person="true";
+         String person="true";
 
         Person checkingPersonStatus=new Person();
 
