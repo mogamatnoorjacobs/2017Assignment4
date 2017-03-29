@@ -2,7 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eec5c48a-3b89-42f3-9885-5b021e5b0e49" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCPTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalaryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalaryTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingLSPCheckEmployee.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolatingLSPCheckEmployee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/App.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Man.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Man.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Person.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Woman.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question1/Woman.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/Person.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/PersonInterface.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/PersonInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/runPerson.class" afterPath="$PROJECT_DIR$/target/classes/Chatpter4Assignment/Question2/runPerson.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/AppTest.class" afterPath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/AppTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/Question1/ManTest.class" afterPath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/Question1/ManTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/Question2/PersonTest.class" afterPath="$PROJECT_DIR$/target/test-classes/Chatpter4Assignment/Question2/PersonTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Man.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Man.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/Person.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/PersonInterface.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/PersonInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/runPerson.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/runPerson.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/checkingStatuses.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/checkingStatuses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductInterface.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSPEmp.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSPEmp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSPEmp.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSPEmp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/Student.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/StudentViolateOCP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/StudentViolateOCP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey/Obey.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey/Obey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/ViolateSingleton.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/ViolateSingleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/ADP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/ADP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalary.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Salary.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Salary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java" afterPath="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java" afterPath="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java" />
     </list>
     <ignored path="Chapter4Assignment.iws" />
@@ -26,11 +80,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonObeyOCPTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObeySingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObeySingletonCalcSalary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObeySingletonCalcSalaryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalaryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViolateADP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WomanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculateSalaryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalaryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -58,57 +204,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ObeyOCPAnimal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ObeyOCPAnimalSound.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Cat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ObeyOCPMovement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/createPerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ViolateOCP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PersonObeyOCP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/StudentViolateOCP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ViolateLSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ViolateLSPEmp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ObeyingLSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/ObeyingLSPEmp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/StatusCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/checkingStatuses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/ProcuctInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/ProductWheels.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obeying.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingLSPCheckEmployee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Age.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/yearBorn.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/YearBorn.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateAge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Salary.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/calculateSalary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ViolateSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/mainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Man.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/runPerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/PersonInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/checkingStatuses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSPEmp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSPEmp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolatingLSPCheckEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/StudentViolateOCP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey/Obey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/ViolateSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/ADP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalary.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ViolateSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/checkingStatuses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Salary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalaryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCPTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalaryTest.java" />
       </list>
     </option>
   </component>
@@ -129,10 +275,13 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -160,8 +309,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,6 +319,10 @@
               <option name="myItemId" value="Chapter4Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -177,6 +331,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,6 +385,10 @@
               <option name="myItemId" value="Chatpter4Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObeyADP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -229,6 +413,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -249,10 +467,645 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObeyADP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Singleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Singleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrincipleOfLeastKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrincipleOfLeastKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenClosedPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenClosedPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiskovSubstitutionPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LiskovSubstitutionPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterfaceSegregationPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterfaceSegregationPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Obey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chatpter4Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Question1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,9 +1121,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Chatpter4Assignment.Question3.Singleton.Obey" />
+      <recent name="Chatpter4Assignment.Question4.ObeyADP" />
+      <recent name="Chatpter4Assignment.Question3.OpenClosedPrinciple.Obey" />
       <recent name="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey" />
       <recent name="Chatpter4Assignment.Question1" />
-      <recent name="Chatpter4Assignment.Question2" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Chatpter4Assignment.Question3.InterfaceSegregationPrinciple" />
@@ -279,15 +1134,41 @@
       <recent name="junit.framework.TestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ManTest.testNameFail">
-    <configuration default="false" name="runPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ObeySingletonCalcSalaryTest.testCalculateSalary">
+    <configuration default="false" name="PersonTest.testStatusCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chatpter4Assignment.Question2.*" />
+          <option name="PATTERN" value="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question2.runPerson" />
+      <module name="Chapter4Assignment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey" />
+      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.PersonTest" />
+      <option name="METHOD_NAME" value="testStatusCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="mainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.mainClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -300,19 +1181,19 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PersonTest.testCreatePerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PersonObeyOCPTest.testCreatePersonName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chatpter4Assignment.Question2.*" />
+          <option name="PATTERN" value="Chatpter4Assignment.Question3.OpenClosedPrinciple.Obey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Chapter4Assignment" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question2" />
-      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question2.PersonTest" />
-      <option name="METHOD_NAME" value="testCreatePerson" />
+      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question3.OpenClosedPrinciple.Obey" />
+      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question3.OpenClosedPrinciple.Obey.PersonObeyOCPTest" />
+      <option name="METHOD_NAME" value="testCreatePersonName" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -326,19 +1207,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="PersonTest.testCreatePersonFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CalculateSalaryTest.testGetTotalSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chatpter4Assignment.Question2.*" />
+          <option name="PATTERN" value="Chatpter4Assignment.Question4.ObeyADP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Chapter4Assignment" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question2" />
-      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question2.PersonTest" />
-      <option name="METHOD_NAME" value="testCreatePersonFail" />
+      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question4.ObeyADP" />
+      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question4.ObeyADP.CalculateSalaryTest" />
+      <option name="METHOD_NAME" value="testGetTotalSalary" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -352,45 +1233,19 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="ManTest.testName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ObeySingletonCalcSalaryTest.testCalculateSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chatpter4Assignment.Question1.*" />
+          <option name="PATTERN" value="Chatpter4Assignment.Question3.Singleton.Obey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Chapter4Assignment" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question1" />
-      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question1.ManTest" />
-      <option name="METHOD_NAME" value="testName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ManTest.testNameFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chatpter4Assignment.Question1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Chapter4Assignment" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question1" />
-      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question1.ManTest" />
-      <option name="METHOD_NAME" value="testNameFail" />
+      <option name="PACKAGE_NAME" value="Chatpter4Assignment.Question3.Singleton.Obey" />
+      <option name="MAIN_CLASS_NAME" value="Chatpter4Assignment.Question3.Singleton.Obey.ObeySingletonCalcSalaryTest" />
+      <option name="METHOD_NAME" value="testCalculateSalary" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -694,19 +1549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.runPerson" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonTest.testCreatePerson" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonTest.testCreatePersonFail" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ManTest.testName" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ManTest.testNameFail" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonTest.testStatusCheck" />
+      <item index="1" class="java.lang.String" itemvalue="Application.mainClass" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonObeyOCPTest.testCreatePersonName" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculateSalaryTest.testGetTotalSalary" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ObeySingletonCalcSalaryTest.testCalculateSalary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ManTest.testNameFail" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ManTest.testName" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonTest.testCreatePersonFail" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonTest.testCreatePerson" />
-        <item index="4" class="java.lang.String" itemvalue="Application.runPerson" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ObeySingletonCalcSalaryTest.testCalculateSalary" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculateSalaryTest.testGetTotalSalary" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonObeyOCPTest.testCreatePersonName" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonTest.testStatusCheck" />
+        <item index="4" class="java.lang.String" itemvalue="Application.mainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -745,27 +1600,46 @@
       <option name="project" value="LOCAL" />
       <updated>1477332770516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1477342346144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477342346144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ManTest_testName - 2016.06.18 at 16h 43m 55s.xml">
-      <configuration name="ManTest.testName" configurationId="JUnit" />
+    <history-entry file="CalculateSalaryTest_testGetTotalSalary - 2017.03.29 at 20h 42m 18s.xml">
+      <configuration name="CalculateSalaryTest.testGetTotalSalary" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ManTest_testNameFail - 2016.06.18 at 16h 44m 26s.xml">
-      <configuration name="ManTest.testNameFail" configurationId="JUnit" />
+    <history-entry file="CalculateSalaryTest_testGetTotalSalary - 2017.03.29 at 20h 42m 39s.xml">
+      <configuration name="CalculateSalaryTest.testGetTotalSalary" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonTest_testCreatePerson - 2016.06.18 at 15h 55m 29s.xml">
-      <configuration name="PersonTest.testCreatePerson" configurationId="JUnit" />
+    <history-entry file="ObeySingletonCalcSalaryTest_testCalculateSalary - 2017.03.29 at 20h 53m 36s.xml">
+      <configuration name="ObeySingletonCalcSalaryTest.testCalculateSalary" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonTest_testCreatePerson - 2016.06.18 at 15h 55m 47s.xml">
-      <configuration name="PersonTest.testCreatePerson" configurationId="JUnit" />
+    <history-entry file="ObeySingletonCalcSalaryTest_testCalculateSalary - 2017.03.29 at 20h 54m 19s.xml">
+      <configuration name="ObeySingletonCalcSalaryTest.testCalculateSalary" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonTest_testCreatePerson - 2016.06.18 at 15h 56m 01s.xml">
-      <configuration name="PersonTest.testCreatePerson" configurationId="JUnit" />
+    <history-entry file="ObeySingletonCalcSalaryTest_testCalculateSalary - 2017.03.29 at 20h 54m 47s.xml">
+      <configuration name="ObeySingletonCalcSalaryTest.testCalculateSalary" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PersonTest_testCreatePersonFail - 2016.06.18 at 16h 09m 52s.xml">
       <configuration name="PersonTest.testCreatePersonFail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testStatusCheck - 2017.03.26 at 10h 51m 08s.xml">
+      <configuration name="PersonTest.testStatusCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testStatusCheck - 2017.03.26 at 10h 51m 42s.xml">
+      <configuration name="PersonTest.testStatusCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testStatusCheck - 2017.03.26 at 10h 51m 54s.xml">
+      <configuration name="PersonTest.testStatusCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testStatusCheck - 2017.03.26 at 11h 18m 25s.xml">
+      <configuration name="PersonTest.testStatusCheck" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -781,32 +1655,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2700491" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28805238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28805238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32245827" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31164902" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -835,8 +1709,20 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java</url>
+          <line>10</line>
+          <properties class="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.PersonTest" method="testStatusCheck" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java</url>
+          <line>17</line>
+          <properties class="Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey.Person" method="setCheck" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -845,78 +1731,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingLSPCheckEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -933,196 +1747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/runPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/PersonInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" selection-start-line="7" selection-start-column="3" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="57" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/ADP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSPEmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey/Obey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1130,74 +1754,382 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/mainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question1/Woman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/runPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question2/PersonInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/checkingStatuses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingEmployeeState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/ViolatingLSPCheckEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/Obeying.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/Obey/ProductWheels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/InterfaceSegregationPrinciple/VoilatingProductInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/Obey/ObeyingLSPEmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolateLSPEmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/LiskovSubstitutionPrinciple/ViolatingLSPCheckEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/StudentViolateOCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Obey/Obey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/PrincipleOfLeastKnowledge/ViolatePersonInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/ViolateSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/ADP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ObeyADP/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/CalculateSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/Salary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question4/ViolateADP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/ManTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/StatusCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question1/WomanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question2/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question4/ObeyADP/CalculateSalaryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/OpenClosedPrinciple/Obey/PersonObeyOCPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/DependencyInversionPrinciple/Obey/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Chatpter4Assignment/Question3/Singleton/Obey/ObeySingletonCalcSalaryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding />
         </state>
       </provider>

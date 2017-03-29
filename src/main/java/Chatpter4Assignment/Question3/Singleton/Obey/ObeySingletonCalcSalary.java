@@ -1,7 +1,7 @@
 package Chatpter4Assignment.Question3.Singleton.Obey;
 
 /**
- * Created by fatimam on 2016-06-21.
+ *
  */
 public class ObeySingletonCalcSalary
 {
@@ -10,7 +10,7 @@ public class ObeySingletonCalcSalary
     public double calculateSalary(double amount)
     {
 
-        salary=amount-(amount*tax);
+        salary=amount+(amount*tax);
         return salary;
     }
 }

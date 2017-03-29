@@ -1,7 +1,7 @@
 package Chatpter4Assignment.Question4.ObeyADP;
 
 /**
- * Created by fatimam on 2016-07-02.
+ *
  */
 public class Employee
 {

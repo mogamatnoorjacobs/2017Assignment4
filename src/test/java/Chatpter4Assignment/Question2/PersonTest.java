@@ -4,7 +4,7 @@ import junit.framework.Assert;
 import junit.framework.TestCase;
 
 /**
- * Created by fatimam on 2016-06-18.
+ *
  */
 public class PersonTest extends TestCase {
 

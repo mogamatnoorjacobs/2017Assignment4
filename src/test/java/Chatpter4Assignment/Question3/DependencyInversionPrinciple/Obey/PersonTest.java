@@ -1,19 +1,21 @@
 package Chatpter4Assignment.Question3.DependencyInversionPrinciple.Obey;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
 
 /**
- * Created by fatimam on 2016-07-04.
+ *
  */
 public class PersonTest extends TestCase {
 
     public void testStatusCheck() throws Exception
     {
-         String person="true";
+         boolean person=true;
 
-        Person checkingPersonStatus=new Person();
+        Person checkingPersonStatus=new Person(true);
 
-
+        boolean check=checkingPersonStatus.isChecked();
+        Assert.assertTrue(check);
 
     }
 }

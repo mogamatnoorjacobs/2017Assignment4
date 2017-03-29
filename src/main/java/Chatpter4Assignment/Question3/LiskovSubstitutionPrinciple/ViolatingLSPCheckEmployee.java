@@ -1,7 +1,9 @@
-package Chatpter4Assignment.Question3.DependencyInversionPrinciple;
+package Chatpter4Assignment.Question3.LiskovSubstitutionPrinciple;
+
+import Chatpter4Assignment.Question3.DependencyInversionPrinciple.ViolatingEmployeeState;
 
 /**
- * Created by fatimam on 2016-06-26.
+ *
  */
 public class ViolatingLSPCheckEmployee
 {

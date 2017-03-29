@@ -1,7 +1,7 @@
-package Chatpter4Assignment.Question3.Singleton.Obey;
+package Chatpter4Assignment.Question3.Singleton;
 
 /**
- * Created by fatimam on 2016-06-21.
+ *
  */
 public class ViolateSingleton
 {

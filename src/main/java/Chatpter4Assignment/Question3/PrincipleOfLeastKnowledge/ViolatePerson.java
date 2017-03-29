@@ -3,7 +3,7 @@ package Chatpter4Assignment.Question3.PrincipleOfLeastKnowledge;
 import java.text.SimpleDateFormat;
 
 /**
- * Created by fatimam on 2016-06-29.
+ *
  */
 public class ViolatePerson implements ViolatePersonInterface
 {

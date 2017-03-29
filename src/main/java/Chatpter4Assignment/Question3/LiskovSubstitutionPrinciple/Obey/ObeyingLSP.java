@@ -1,13 +1,39 @@
 package Chatpter4Assignment.Question3.LiskovSubstitutionPrinciple.Obey;
 
 /**
- * Created by fatimam on 2016-06-26.
+ *
  */
 public class ObeyingLSP
 {
 
-    public void setDetails(String name,String surname)
+    private String name,surname;
+
+    ObeyingLSP(){}
+
+    ObeyingLSP(String name, String surname)
     {
-        System.out.println("Obeying LSP");
+        this.name=name;
+        this.surname=surname;
     }
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public void setSurname(String surname) {
+        this.surname = surname;
+    }
+
+
+
+
 }
